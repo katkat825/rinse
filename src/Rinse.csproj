@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Rinse</RootNamespace>
+    <AssemblyName>Rinse</AssemblyName>
+    <ApplicationIcon>Rinse.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <Product>Rinse</Product>
+    <Description>Cleans tracking junk out of copied links and tidies clipboard text.</Description>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Rinse.ico" LogicalName="Rinse.ico" />
+  </ItemGroup>
+
+</Project>
