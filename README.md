@@ -4,6 +4,8 @@
 
 Rinse is a small Windows tray app. It cleans up links as you copy them and gives you one-click fixes for messy text. It runs entirely on your computer: no accounts, no network, no telemetry.
 
+![The Rinse panel: the current clipboard text on the left, one-click Clean, Case and Lines tools below it, and a list of recent copies on the right](rinse-screenshot.png)
+
 ## What it does
 
 ### Cleans links automatically
@@ -113,3 +115,7 @@ Plain WinForms on .NET 9, with no NuGet packages.
 ## License
 
 [MIT](LICENSE). You're free to use, change and share Rinse, including commercially, as long as you keep the copyright notice.
+
+## Author
+
+Made by Kathleen Malone. See more of my work at [kathleenmalone.dev](https://kathleenmalone.dev/).
